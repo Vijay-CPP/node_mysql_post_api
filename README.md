@@ -4,7 +4,7 @@
 ### Preview
 For UID = 4
 
---
+![Screenshot (380)](https://github.com/Vijay-CPP/node_mysql_post_api/assets/74971365/462346e6-b34a-469f-9255-e9678a4a2364)
 
 Tables used - 
 
@@ -40,4 +40,4 @@ Candidate_Status
 
 For UID = 1
 
---
+![Screenshot (381)](https://github.com/Vijay-CPP/node_mysql_post_api/assets/74971365/1fe9293b-cfad-41f5-8f8f-4cbe42fcfe30)
