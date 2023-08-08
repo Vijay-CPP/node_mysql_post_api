@@ -41,3 +41,13 @@ Candidate_Status
 For UID = 1
 
 ![Screenshot (381)](https://github.com/Vijay-CPP/node_mysql_post_api/assets/74971365/1fe9293b-cfad-41f5-8f8f-4cbe42fcfe30)
+
+After cloning try
+```
+npm install
+```
+
+then add DB credentials to the .env file and then
+```
+npm start or npm dev 
+```
